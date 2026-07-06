@@ -1,6 +1,5 @@
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Syed-Muhammad-Owais98/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=Syed-Muhammad-Owais98&color=00ff41&style=flat-square&label=Profile+Views" alt="Visitor's Count" />
 </div>
 
 <h1 align="center">
@@ -66,10 +65,14 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Syed-Muhammad-Owais98&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&title_color=00ff41&icon_color=00ff41" alt="Owais's GitHub Stats" />
-  <img width=390 src="https://streak-stats.demolab.com/?user=Syed-Muhammad-Owais98&theme=transparent&border_radius=10&locale=en&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Owais's GitHub Streak" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed-Muhammad-Owais98&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en&title_color=00ff41" alt="Owais's Most Used Languages" />
+<div align="center">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syed-Muhammad-Owais98&theme=github_dark" alt="Owais's GitHub Profile Details" />
+  <br>
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syed-Muhammad-Owais98&theme=github_dark" alt="Owais's GitHub Stats" />
+  <img width="390" src="https://github-readme-streak-stats-eight.vercel.app/?user=Syed-Muhammad-Owais98&theme=github-dark&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Owais's GitHub Streak" />
+  <br>
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syed-Muhammad-Owais98&theme=github_dark" alt="Top Languages by Repo" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syed-Muhammad-Owais98&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
 <hr>
