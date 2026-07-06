@@ -1,94 +1,91 @@
 <div align="center">
-
-```
- ██████╗ ██╗    ██╗ █████╗ ██╗███████╗
-██╔═══██╗██║    ██║██╔══██╗██║██╔════╝
-██║   ██║██║ █╗ ██║███████║██║███████╗
-██║   ██║██║███╗██║██╔══██║██║╚════██║
-╚██████╔╝╚███╔███╔╝██║  ██║██║███████║
- ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝
-─────────────────────────────────────────
-  full stack developer · 5+ yrs · remote
-```
-
-![Status](https://img.shields.io/badge/status-available_for_work-00ff00?style=flat-square&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/focus-full_stack_+_AI-00ff00?style=flat-square&labelColor=0d1117)
-![Timezone](https://img.shields.io/badge/timezone-flexible_(US/EU/UAE)-00ff00?style=flat-square&labelColor=0d1117)
-![Response](https://img.shields.io/badge/response_time-<24h-00ff00?style=flat-square&labelColor=0d1117)
-
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Syed-Muhammad-Owais98/count.svg" alt="Visitor's Count" />
 </div>
 
-## `$ whoami`
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=00ff41&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Syed+Muhammad+Owais!" alt="Typing greeting" />
+</h1>
 
-```bash
-syed-muhammad-owais
-```
+### A full stack developer who builds entire products end to end — web, mobile, and AI, all shipped to production.
 
-## `$ cat about_me.txt`
+- 🔭 I've shipped **15+ international projects** across e-commerce, SaaS, fintech, healthcare, EdTech and hospitality
+- 🤖 I build **AI-integrated products in production** (not demos) — [success.ai](https://success.ai), [dutify.ai](https://dutify.ai)
+- 📱 My React Native apps are **live on iOS & Android** — [oparko.com](https://oparko.com), Pocket Party, MOOS
+- 🌍 Based in Pakistan, fully remote — I overlap with **US, EU, or UAE** hours
+- 💬 Ask me about **React, Next.js, Node.js, TypeScript...or anything [here](https://github.com/Syed-Muhammad-Owais98/Syed-Muhammad-Owais98/issues)**
 
-```text
-Hi, I'm Owais. I build entire products end to end, not just frontend tickets.
-
-5+ years of full stack work. 15+ international projects shipped and live in
-production, across e-commerce, SaaS, fintech, healthcare, EdTech, hospitality
-and a dozen other industries. I work directly with founders and CTOs on small
-teams, and clients come back to grow their products instead of rebuilding them.
-
-I've shipped AI-integrated products that real users pay for, not demos.
-Strong opinions on architecture, performance, and keeping code maintainable
-long after I've handed it over.
-
-Based in Pakistan. Fully remote. I overlap with whatever timezone you're in.
-```
-
-## `$ ls ~/projects --live`
-
-```text
-drwxr-xr-x  spoonity.com      loyalty SaaS for restaurants & retail, multi-country
-drwxr-xr-x  success.ai        AI sales outreach platform · OpenAI · Stripe · full stack
-drwxr-xr-x  dutify.ai         AI-driven platform · Next.js · AWS
-drwxr-xr-x  tyc.ae            full stack platform for the UAE market
-drwxr-xr-x  stayy.ch          hospitality & booking engine · Swiss market
-drwxr-xr-x  oparko.com        parking app · web + React Native · live on iOS & Android
-drwxr-xr-x  pocket-party      social events app · React Native · iOS & Android
-drwxr-xr-x  moos-app          cross-platform React Native app · iOS & Android
-```
-
-## `$ cat tech_stack.json`
-
-```jsonc
-{
-  "frontend":  ["React", "Next.js (App Router)", "TypeScript", "Redux", "Tailwind CSS"],
-  "backend":   ["Node.js", "GraphQL", "REST APIs", "JWT / OAuth"],
-  "mobile":    ["React Native (iOS & Android)"],
-  "databases": ["PostgreSQL", "MongoDB", "Firebase"],
-  "infra":     ["AWS", "Docker", "Nginx"],
-  "payments":  ["Stripe"],
-  "ai":        ["OpenAI integrations (in production, not demos)"]
-}
-```
-
-## `$ systemctl status owais.service`
-
-```text
-● owais.service - Full Stack Developer
-     Loaded: loaded (5+ years experience; enabled)
-     Active: active (running) — available for new projects
-   Delivery: 15+ international projects shipped
-     Uptime: clients return to grow products, not rebuild them
-   Strength: end-to-end ownership · performance · architecture · product thinking
-```
-
-## `$ ping owais`
+<br>
 
 <div align="center">
+  <a href="mailto:smuhammadowais98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/syedmuhammadowais/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://owais.cloud" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
+</div>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-00ff00?style=for-the-badge&labelColor=0d1117&logo=googlechrome&logoColor=00ff00)](https://owais.cloud)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-00ff00?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/syedmuhammadowais/)
-[![Email](https://img.shields.io/badge/email-say_hello-00ff00?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=00ff00)](mailto:smuhammadowais98@gmail.com)
+<hr>
 
-```
-64 bytes from owais: icmp_seq=1 ttl=∞ time=fast — usually replies within 24h
-```
+## 🛠️ Languages and Tools
 
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,graphql,redux,tailwind" alt="Frontend and backend skills" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,aws,docker,nginx,git,figma" alt="Database and infra skills" />
+</p>
+
+<p align="center">
+  <sub>plus: React Native · Stripe · OpenAI integrations · REST APIs · JWT/OAuth · Bun</sub>
+</p>
+
+<hr>
+
+## 🚀 Live Projects
+
+| Project | What it is |
+|---|---|
+| [spoonity.com](https://spoonity.com) | Loyalty SaaS for restaurants & retail, running across multiple countries |
+| [success.ai](https://success.ai) | AI-powered sales outreach platform · OpenAI · Stripe · full stack |
+| [dutify.ai](https://dutify.ai) | AI-driven platform built on Next.js and AWS |
+| [tyc.ae](https://tyc.ae) | Full stack platform for the UAE market |
+| [stayy.ch](https://stayy.ch) | Hospitality & booking engine for the Swiss market |
+| [oparko.com](https://oparko.com) | Parking app · web + React Native · live on iOS & Android |
+| Pocket Party | Social events app · React Native · iOS & Android |
+| MOOS | Cross-platform React Native app · iOS & Android |
+
+<hr>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Syed-Muhammad-Owais98&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&title_color=00ff41&icon_color=00ff41" alt="Owais's GitHub Stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=Syed-Muhammad-Owais98&theme=transparent&border_radius=10&locale=en&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Owais's GitHub Streak" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Syed-Muhammad-Owais98&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en&title_color=00ff41" alt="Owais's Most Used Languages" />
+</div>
+
+<hr>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Syed-Muhammad-Owais98/Syed-Muhammad-Owais98/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Syed-Muhammad-Owais98/Syed-Muhammad-Owais98/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Syed-Muhammad-Owais98/Syed-Muhammad-Owais98/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
+<div align="center">
+  <sub>⚡ Available for new projects · usually replies within 24h · <a href="https://owais.cloud">owais.cloud</a></sub>
 </div>
