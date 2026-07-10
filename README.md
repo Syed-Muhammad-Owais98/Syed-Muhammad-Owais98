@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Syed-Muhammad-Owais98&color=00ff41&style=flat-square&label=Profile+Views" alt="Visitor's Count" />
-</div>
+</div> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Inter&size=42&center=true&vCenter=true&width=600&height=70&color=00ff41&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Syed+Muhammad+Owais!" alt="Typing greeting" />
